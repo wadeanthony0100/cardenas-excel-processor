@@ -1,4 +1,8 @@
-This project is for a very specific use case.
+A simple script for a simple purpose.
+
+>>python heatChart.py
+>>profit
+
 The included in.xlsx file contains data for use
 only in testing this program. The intended vertical
 axis is column D, and vertical is column B.
