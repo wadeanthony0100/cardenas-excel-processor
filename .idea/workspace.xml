@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd47ee34-8456-4449-b372-6d1e94d0ff46" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\.idea\inspectionProfiles\Project_Default.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\.idea\inspectionProfiles\profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\AUTHORS.rst" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\LICENCE.rst" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\MANIFEST.in" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\PKG-INFO" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\README.rst" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\TODO.rst" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\et_xmfile\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\et_xmfile\common_imports.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\et_xmfile\test_incremental_xmlfile.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\et_xmfile\xmlfile.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\cell\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\cell\cell.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\cell\formula.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\cell\interface.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\cell\read_only.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\charts\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\charts\axis.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\charts\bar.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\charts\chart.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\charts\error_bar.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\charts\graph.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\charts\legend.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\charts\line.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\charts\pie.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\charts\reference.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\charts\scatter.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\charts\series.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\charts\writer.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\comments\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\comments\comments.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\compat\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\compat\abc.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\compat\functools.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\compat\itertools.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\compat\numbers.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\compat\odict.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\compat\singleton.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\compat\strings.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\conftest.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\descriptors\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\descriptors\base.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\descriptors\excel.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\descriptors\serialisable.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\descriptors\slots.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\drawing\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\drawing\drawing.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\formatting\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\formatting\formatting.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\formatting\rule.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\formatting\rules.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\reader\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\reader\comments.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\reader\excel.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\reader\strings.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\reader\style.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\reader\workbook.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\reader\worksheet.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\styles\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\styles\alignment.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\styles\borders.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\styles\colors.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\styles\differential.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\styles\fills.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\styles\fonts.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\styles\hashable.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\styles\named_styles.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\styles\numbers.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\styles\protection.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\styles\proxy.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\styles\style.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\styles\styleable.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\utils\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\utils\datetime.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\utils\exceptions.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\utils\indexed_list.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\utils\units.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\workbook\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\workbook\interface.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\workbook\names\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\workbook\names\external.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\workbook\names\named_range.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\workbook\properties.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\workbook\read_only.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\workbook\workbook.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\workbook\write_only.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\worksheet\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\worksheet\datavalidation.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\worksheet\dimensions.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\worksheet\filters.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\worksheet\header_footer.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\worksheet\interface.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\worksheet\iter_worksheet.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\worksheet\page.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\worksheet\pivot.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\worksheet\properties.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\worksheet\protection.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\worksheet\relationship.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\worksheet\views.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\worksheet\worksheet.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\writer\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\writer\comments.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\writer\drawings.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\writer\dump_worksheet.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\writer\etree_worksheet.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\writer\excel.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\writer\lxml_worksheet.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\writer\relations.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\writer\strings.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\writer\styles.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\writer\theme.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\writer\workbook.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\writer\worksheet.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\xml\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\xml\constants.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\xml\functions.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\xml\namespace.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\build\lib\openpyxl\xml\xmlfile.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\dist\openpyxl-2.2.1-py3.4.egg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\et_xmfile\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\et_xmfile\common_imports.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\et_xmfile\test_incremental_xmlfile.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\et_xmfile\xmlfile.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl.egg-info\PKG-INFO" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl.egg-info\SOURCES.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl.egg-info\dependency_links.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl.egg-info\requires.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl.egg-info\top_level.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\cell\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\cell\cell.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\cell\formula.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\cell\interface.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\cell\read_only.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\charts\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\charts\axis.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\charts\bar.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\charts\chart.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\charts\error_bar.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\charts\graph.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\charts\legend.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\charts\line.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\charts\pie.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\charts\reference.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\charts\scatter.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\charts\series.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\charts\writer.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\comments\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\comments\comments.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\compat\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\compat\abc.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\compat\functools.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\compat\itertools.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\compat\numbers.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\compat\odict.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\compat\singleton.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\compat\strings.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\conftest.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\descriptors\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\descriptors\base.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\descriptors\excel.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\descriptors\serialisable.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\descriptors\slots.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\drawing\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\drawing\drawing.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\formatting\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\formatting\formatting.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\formatting\rule.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\formatting\rules.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\reader\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\reader\comments.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\reader\excel.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\reader\strings.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\reader\style.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\reader\workbook.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\reader\worksheet.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\styles\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\styles\alignment.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\styles\borders.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\styles\colors.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\styles\differential.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\styles\fills.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\styles\fonts.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\styles\hashable.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\styles\named_styles.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\styles\numbers.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\styles\protection.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\styles\proxy.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\styles\style.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\styles\styleable.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\utils\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\utils\datetime.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\utils\exceptions.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\utils\indexed_list.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\utils\units.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\workbook\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\workbook\interface.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\workbook\names\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\workbook\names\external.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\workbook\names\named_range.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\workbook\properties.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\workbook\read_only.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\workbook\workbook.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\workbook\write_only.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\worksheet\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\worksheet\datavalidation.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\worksheet\dimensions.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\worksheet\filters.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\worksheet\header_footer.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\worksheet\interface.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\worksheet\iter_worksheet.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\worksheet\page.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\worksheet\pivot.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\worksheet\properties.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\worksheet\protection.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\worksheet\relationship.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\worksheet\views.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\worksheet\worksheet.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\writer\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\writer\comments.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\writer\drawings.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\writer\dump_worksheet.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\writer\etree_worksheet.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\writer\excel.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\writer\lxml_worksheet.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\writer\relations.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\writer\strings.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\writer\styles.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\writer\theme.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\writer\workbook.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\writer\worksheet.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\xml\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\xml\constants.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\xml\functions.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\xml\namespace.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\openpyxl\xml\xmlfile.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\setup.cfg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\setup.py" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\.idea\encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MOVED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\.idea\misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MOVED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\.idea\scopes\scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="MOVED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\.idea\untitled.iml" afterPath="$PROJECT_DIR$/.idea/cardenas-excel-processor.iml" />
+      <change type="MOVED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\.idea\vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MOVED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\in.xlsx" afterPath="$PROJECT_DIR$/in.xlsx" />
+      <change type="MOVED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\openpyxl-2.2.1\heatChart.py" afterPath="$PROJECT_DIR$/heatChart.py" />
+      <change type="MOVED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\out.xlsx" afterPath="$PROJECT_DIR$/out.xlsx" />
+      <change type="MOVED" beforePath="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor\test.py" afterPath="$PROJECT_DIR$/test.py" />
+    </list>
+    <ignored path="cardenas-excel-processor.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/cardenas-excel-processor$heatChart.coverage" NAME="heatChart Coverage Results" MODIFIED="1429843648968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/excel_processor" />
+    <SUITE FILE_PATH="coverage/cardenas-excel-processor$test.coverage" NAME="test Coverage Results" MODIFIED="1429843679304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/excel_processor" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="cardenas-excel-processor" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="heatChart.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/heatChart.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2241">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cardenas-excel-processor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cardenas-excel-processor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cardenas-excel-processor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor" />
+      <recent name="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\excel_processor" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration default="false" name="heatChart" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/excel_processor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="cardenas-excel-processor" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\heatChart.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/excel_processor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="cardenas-excel-processor" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Wade\Desktop\Developer\Git\cardenas-excel-processor\test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="cardenas-excel-processor" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="cardenas-excel-processor" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="cardenas-excel-processor" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="cardenas-excel-processor" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="cardenas-excel-processor" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="cardenas-excel-processor" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="cardenas-excel-processor" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="cardenas-excel-processor" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="cardenas-excel-processor" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.heatChart" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.heatChart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd47ee34-8456-4449-b372-6d1e94d0ff46" name="Default" comment="" />
+      <created>1429843516645</created>
+      <option name="number" value="Default" />
+      <updated>1429843516645</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.63688433" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973261" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="284">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heatChart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2241">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
