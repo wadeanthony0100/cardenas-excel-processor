@@ -56,7 +56,7 @@ for x in range(2, num_rows+1):
     else:
         meanings_to_lst_arrow[meaning] = [arrow]
 
-print(meanings_to_lst_arrow)
+#print(meanings_to_lst_arrow)
 
 #make a new Worksheet
 new_book = Workbook()
