@@ -10,7 +10,7 @@ you will need to install the openpyxl library
 to your working directory:
 
 >>cd <working directory>
->>pip openpyxl
+>>pip install openpyxl
 >>profit
 
 The included in.xlsx file contains data for use
