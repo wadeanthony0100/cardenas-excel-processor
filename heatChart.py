@@ -78,5 +78,5 @@ for key in keys_list:
         new_sheet[str(get_column_letter(num + 1)) + str(index)].style = Style(fill=myFill)
     index += 1
 
-
+#save the new workbook with the given output filename
 new_book.save(output_name)
