@@ -32,7 +32,7 @@ if output_name[-5:] != '.xlsx':
     output_name += '.xlsx'
 
 #initialize workbook, get data worksheet
-wb = load_workbook(filename = 'in.xlsx',  use_iterators=True)
+wb = load_workbook(filename = input_name,  use_iterators=True)
 data_sheet = wb.get_sheet_by_name('Data')
 
 #get the number of valid rows in the sheet, for iteration
