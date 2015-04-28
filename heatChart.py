@@ -11,12 +11,13 @@ from openpyxl import Workbook
 from openpyxl import load_workbook
 from openpyxl.cell import Cell
 from openpyxl.styles import fills, Color, Fill, Style, PatternFill
-from openpyxl.styles.colors import GREEN
+from openpyxl.styles.colors import GREEN, BLACK
 
 #define how a filled cell is to be filled
 from openpyxl.utils import get_column_letter
 
 myFill = PatternFill(patternType=fills.FILL_SOLID, fgColor=GREEN)
+backFill = PatternFill(patternType=fills.FILL_SOLID, fgColor=BLACK)
 
 #collect I/O data
 input_name = input("Input file name- This must be placed \nin the directory above this script: ")
