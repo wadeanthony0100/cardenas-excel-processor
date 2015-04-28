@@ -11,12 +11,12 @@ from openpyxl import Workbook
 from openpyxl import load_workbook
 from openpyxl.cell import Cell
 from openpyxl.styles import fills, Color, Fill, Style, PatternFill
-from openpyxl.styles.colors import GREEN, BLACK
+from openpyxl.styles.colors import RED, BLACK
 
 #define how a filled cell is to be filled
 from openpyxl.utils import get_column_letter
 
-myFill = PatternFill(patternType=fills.FILL_SOLID, fgColor=GREEN)
+myFill = PatternFill(patternType=fills.FILL_SOLID, fgColor=RED)
 backFill = PatternFill(patternType=fills.FILL_SOLID, fgColor=BLACK)
 
 #collect I/O data
@@ -66,6 +66,11 @@ new_sheet = new_book.active
 #label Axies and Data
 for x in range(1, max_arrow+1):
     new_sheet[get_column_letter(x + 1) + "1"] = x
+
+#style all spaces black
+for x in range(2, len(meanings_to_lst_arrow) + 1):
+    for y in range(2, max_arrow + 2):
+        new_sheet[str(get_column_letter(y)) + str(x)].style = Style(fill=backFill)
 
 #get an alphabetized list to iterate through
 keys_list = list(meanings_to_lst_arrow.keys())
