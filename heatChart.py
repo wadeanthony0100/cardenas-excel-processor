@@ -49,6 +49,8 @@ max_arrow = 0
 for x in range(2, num_rows+1):
     arrow = data_sheet[vertical_letter + str(x)].value
     meaning = data_sheet[horizontal_letter + str(x)].value
+    if meaning is not None:
+        meaning = meaning.strip()
     if arrow > max_arrow:
         max_arrow = arrow
     if meaning in meanings_to_lst_arrow:
