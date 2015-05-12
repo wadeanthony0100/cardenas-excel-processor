@@ -11,12 +11,18 @@ from openpyxl import Workbook
 from openpyxl import load_workbook
 from openpyxl.cell import Cell
 from openpyxl.styles import fills, Color, Fill, Style, PatternFill
-from openpyxl.styles.colors import RED, BLACK
+from openpyxl.styles.colors import BLACK
 
 #define how a filled cell is to be filled
 from openpyxl.utils import get_column_letter
 
-myFill = PatternFill(patternType=fills.FILL_SOLID, fgColor=RED)
+aFill = PatternFill(patternType=fills.FILL_SOLID, fgColor='6C00B8')
+bFill = PatternFill(patternType=fills.FILL_SOLID, fgColor='0020BD')
+cFill = PatternFill(patternType=fills.FILL_SOLID, fgColor='00B5C2')
+dFill = PatternFill(patternType=fills.FILL_SOLID, fgColor='00C63C')
+eFill = PatternFill(patternType=fills.FILL_SOLID, fgColor='5DCC00')
+fFill = PatternFill(patternType=fills.FILL_SOLID, fgColor='D1A300')
+gFill = PatternFill(patternType=fills.FILL_SOLID, fgColor='D60400')
 backFill = PatternFill(patternType=fills.FILL_SOLID, fgColor=BLACK)
 
 #collect I/O data
