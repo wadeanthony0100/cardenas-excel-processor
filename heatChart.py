@@ -89,7 +89,7 @@ for key in keys_list:
     new_sheet["A" + str(index)] = key
     for num in meanings_to_lst_arrow[key]:
         print("Plotting " + str(key) + " to " + str(get_column_letter(num + 1)) + str(index))
-        new_sheet[str(get_column_letter(num + 1)) + str(index)].style = Style(fill=myFill)
+        new_sheet[str(get_column_letter(num + 1)) + str(index)].style = Style(fill=aFill)
     index += 1
 
 #save the new workbook with the given output filename
