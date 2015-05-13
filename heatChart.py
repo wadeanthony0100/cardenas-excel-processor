@@ -36,8 +36,7 @@ as follows:
 8-16:   D
 16-32:  E
 32-64:  F
-64-128: G
-128+:   H
+64+: G
 
 """
 
@@ -155,11 +154,8 @@ for key in keys_list:
         elif tier_num <= 64:
             new_sheet[str(get_column_letter(corr.arrow_type + 1)) + str(index)].style = Style(fill=fFill)
 
-        elif tier_num <= 128:
+        else:
             new_sheet[str(get_column_letter(corr.arrow_type + 1)) + str(index)].style = Style(fill=gFill)
-
-        else: #128+
-            new_sheet[str(get_column_letter(corr.arrow_type + 1)) + str(index)].style = Style(fill=hFill)
 
     index += 1
 """
