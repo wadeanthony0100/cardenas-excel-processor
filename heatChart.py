@@ -99,9 +99,14 @@ for x in range(2, num_rows+1):
     if meaning in meanings_to_lst_arrows:
         if not arrow in meanings_to_lst_arrows[meaning]:
             meanings_to_lst_arrows[meaning].append(arrow)
+        isIn = False
         for corr in meanings_to_lst_corr_objs[meaning]:
             if corr == Correlation("", arrow):
+                isIn = True
                 corr.addFreq()
+        if isIn == False:
+            new_corr = Correlation(meaning, arrow)
+            meanings_to_lst_corr_objs[meaning].append(new_corr)
     else:
         meanings_to_lst_arrows[meaning] = [arrow]
         new_corr = Correlation(meaning, arrow)
@@ -131,7 +136,7 @@ for key in keys_list:
     new_sheet["A" + str(index)] = key
     for corr in meanings_to_lst_corr_objs[key]:
         tier_num = corr.frequency
-        print("Meaning = " +str(corr.meaning)+ "Tier num = " + str(tier_num))
+        print("Meaning = " +str(corr.meaning)+ ",\tTier num = " + str(tier_num))
         if tier_num <= 2:
             new_sheet[str(get_column_letter(corr.arrow_type + 1)) + str(index)].style = Style(fill=aFill)
 
