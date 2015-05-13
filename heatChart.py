@@ -16,14 +16,13 @@ from openpyxl.styles.colors import BLACK
 #define how a filled cell is to be filled
 from openpyxl.utils import get_column_letter
 
-aFill = PatternFill(patternType=fills.FILL_SOLID, fgColor='6C00B8')
-bFill = PatternFill(patternType=fills.FILL_SOLID, fgColor='0020BD')
-cFill = PatternFill(patternType=fills.FILL_SOLID, fgColor='00B5C2')
-dFill = PatternFill(patternType=fills.FILL_SOLID, fgColor='00C63C')
-eFill = PatternFill(patternType=fills.FILL_SOLID, fgColor='5DCC00')
-fFill = PatternFill(patternType=fills.FILL_SOLID, fgColor='D1A300')
-gFill = PatternFill(patternType=fills.FILL_SOLID, fgColor='D60400')
-hFill = PatternFill(patternType=fills.FILL_SOLID, fgColor='FFFFFF')
+aFill = PatternFill(patternType=fills.FILL_SOLID, fgColor='6F0701')
+bFill = PatternFill(patternType=fills.FILL_SOLID, fgColor='872712')
+cFill = PatternFill(patternType=fills.FILL_SOLID, fgColor='9D4724')
+dFill = PatternFill(patternType=fills.FILL_SOLID, fgColor='B76736')
+eFill = PatternFill(patternType=fills.FILL_SOLID, fgColor='CF8747')
+fFill = PatternFill(patternType=fills.FILL_SOLID, fgColor='E7A759')
+gFill = PatternFill(patternType=fills.FILL_SOLID, fgColor='FFC76B')
 backFill = PatternFill(patternType=fills.FILL_SOLID, fgColor=BLACK)
 
 """
