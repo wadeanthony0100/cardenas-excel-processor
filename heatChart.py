@@ -23,7 +23,7 @@ dFill = PatternFill(patternType=fills.FILL_SOLID, fgColor='00C63C')
 eFill = PatternFill(patternType=fills.FILL_SOLID, fgColor='5DCC00')
 fFill = PatternFill(patternType=fills.FILL_SOLID, fgColor='D1A300')
 gFill = PatternFill(patternType=fills.FILL_SOLID, fgColor='D60400')
-hFill = PatternFill(patternType=fills.FILL_SOLID, fgColor='ffffff')
+hFill = PatternFill(patternType=fills.FILL_SOLID, fgColor='FFFFFF')
 backFill = PatternFill(patternType=fills.FILL_SOLID, fgColor=BLACK)
 
 """
@@ -129,38 +129,44 @@ keys_list.sort()
 index = 2
 for key in keys_list:
     new_sheet["A" + str(index)] = key
-    for num in meanings_to_lst_arrows[key]:
-        #print("Plotting " + str(key) + " to " + str(get_column_letter(num + 1)) + str(index))
-        tier_num = 0
-        for corr in meanings_to_lst_corr_objs[key]:
-            if corr == Correlation("", num):
-                tier_num = corr.frequency
-        print("Tire num = " + str(tier_num))
+    for corr in meanings_to_lst_corr_objs[key]:
+        tier_num = corr.frequency
+        print("Meaning = " +str(corr.meaning)+ "Tier num = " + str(tier_num))
         if tier_num <= 2:
-            new_sheet[str(get_column_letter(num + 1)) + str(index)].style = Style(fill=aFill)
+            new_sheet[str(get_column_letter(corr.arrow_type + 1)) + str(index)].style = Style(fill=aFill)
 
         elif tier_num <= 4:
-            new_sheet[str(get_column_letter(num + 1)) + str(index)].style = Style(fill=bFill)
+            new_sheet[str(get_column_letter(corr.arrow_type + 1)) + str(index)].style = Style(fill=bFill)
 
         elif tier_num <= 8:
-            new_sheet[str(get_column_letter(num + 1)) + str(index)].style = Style(fill=cFill)
+            new_sheet[str(get_column_letter(corr.arrow_type + 1)) + str(index)].style = Style(fill=cFill)
 
         elif tier_num <= 16:
-            new_sheet[str(get_column_letter(num + 1)) + str(index)].style = Style(fill=dFill)
+            new_sheet[str(get_column_letter(corr.arrow_type + 1)) + str(index)].style = Style(fill=dFill)
 
         elif tier_num <= 32:
-            new_sheet[str(get_column_letter(num + 1)) + str(index)].style = Style(fill=eFill)
+            new_sheet[str(get_column_letter(corr.arrow_type + 1)) + str(index)].style = Style(fill=eFill)
 
         elif tier_num <= 64:
-            new_sheet[str(get_column_letter(num + 1)) + str(index)].style = Style(fill=fFill)
+            new_sheet[str(get_column_letter(corr.arrow_type + 1)) + str(index)].style = Style(fill=fFill)
 
         elif tier_num <= 128:
-            new_sheet[str(get_column_letter(num + 1)) + str(index)].style = Style(fill=gFill)
+            new_sheet[str(get_column_letter(corr.arrow_type + 1)) + str(index)].style = Style(fill=gFill)
 
         else: #128+
-            new_sheet[str(get_column_letter(num + 1)) + str(index)].style = Style(fill=hFill)
+            new_sheet[str(get_column_letter(corr.arrow_type + 1)) + str(index)].style = Style(fill=hFill)
 
     index += 1
-
+"""
+#test the fill colors
+new_sheet["A1"].style = Style(fill=aFill)
+new_sheet["B1"].style = Style(fill=bFill)
+new_sheet["C1"].style = Style(fill=cFill)
+new_sheet["D1"].style = Style(fill=dFill)
+new_sheet["E1"].style = Style(fill=eFill)
+new_sheet["F1"].style = Style(fill=fFill)
+new_sheet["G1"].style = Style(fill=gFill)
+new_sheet["H1"].style = Style(fill=hFill)
+"""
 #save the new workbook with the given output filename
 new_book.save(output_name)
