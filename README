@@ -1,4 +1,4 @@
-#A simple script for a simple purpose.
+A simple script for a simple purpose.
 
 Generate an excel spreadsheet styled as a heat chart
 expressing the correlation between two columns.
